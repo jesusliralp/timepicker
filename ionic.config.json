@@ -1,0 +1,7 @@
+{
+  "name": "timepicker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

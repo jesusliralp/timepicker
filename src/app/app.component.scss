@@ -1,0 +1,27 @@
+* {
+  font-family: monospace
+}
+
+#timepicker {
+  height: 1rem;
+  width: fit-content;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+  border: 1px solid black;
+  position: relative;
+}
+
+#timepicker * {
+  height: 1rem;
+  display: inline-block;
+  vertical-align: top;
+  padding-inline: 2px;
+}
+
+#dropdown-content {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+}
